@@ -10,6 +10,9 @@ early in the mornings for thirty minutes and do as much as I can.
 These solutions were solved using the IDEAL problem solving method and the Duke Univ.'s
 approach to solving computer science problems.
 
+ps. Naming scheme for files in the repo
+<number of question> <leetcode title of prob>
+
 Feel free to leave comments! I welcome them all!
 Thanks for visitings!
 Sending you good vibes,
