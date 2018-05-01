@@ -11,7 +11,7 @@ These solutions were solved using the IDEAL problem solving method and the Duke 
 approach to solving computer science problems.
 
 ps. Naming scheme for files in the repo
-<number of question> <leetcode title of prob>
+(number of question on leetcode) (leetcode title of prob)
 
 Feel free to leave comments! I welcome them all!
 Thanks for visitings!
